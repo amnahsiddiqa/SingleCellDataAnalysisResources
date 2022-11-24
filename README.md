@@ -1,4 +1,5 @@
 # Single Cell Data Analysis Notes
+Specifics on Wiki! 
 
 
 ## Misc Resources
