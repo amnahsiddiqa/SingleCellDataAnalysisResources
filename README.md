@@ -24,3 +24,12 @@ https://www.science.org/doi/full/10.1126/science.aaz1776
 ## Tabula Sapiens 
 
 https://tabula-sapiens-portal.ds.czbiohub.org
+
+
+## Tools
+
+** For Inference of cell-cell interaction **
+
+CellChat
+Jin, S. et al. Inference and analysis of cell-cell communication using CellChat. Nat. Commun. 12, 1088 (2021).
+
